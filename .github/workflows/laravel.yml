@@ -31,5 +31,5 @@ jobs:
     - name: Execute tests (Unit and Feature tests) via PHPUnit
       env:
         DB_CONNECTION: sqlite
-        DB_DATABASE: registro
+        DB_DATABASE: registroDB
       run: vendor/bin/phpunit
