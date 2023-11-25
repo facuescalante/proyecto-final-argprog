@@ -1,3 +1,5 @@
+<body>
+{% include navbar.html %}
 <?php
 
 use Illuminate\Contracts\Http\Kernel;
@@ -53,3 +55,5 @@ $response = $kernel->handle(
 )->send();
 
 $kernel->terminate($request, $response);
+{% include footer.html %}
+</body>
