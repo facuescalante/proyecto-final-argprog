@@ -10,10 +10,10 @@
             <div class="col-sm-12">
                 <div class="card">
                     <div class="card-header">
-                        <div style="display: flex; justify-content: space-between; align-items: center;">
+                        <div style="font-weight: bold; display: flex; justify-content: space-between; align-items: center;">
 
                             <span id="card_title">
-                                {{ __('Infracciones') }}  <img src="{{ asset('https://cdn-icons-png.flaticon.com/512/9644/9644323.png') }}" width="50" height="50">
+                                <img src="{{ asset('https://cdn-icons-png.flaticon.com/512/9644/9644323.png') }}" width="50" height="50"> {{ __('Infracciones') }}  
                             </span>
 
                              <div class="float-right">

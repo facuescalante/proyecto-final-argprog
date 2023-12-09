@@ -10,10 +10,10 @@
             <div class="col-sm-12">
                 <div class="card">
                     <div class="card-header">
-                        <div style="display: flex; justify-content: space-between; align-items: center;">
+                        <div style="font-weight: bold; display: flex; justify-content: space-between; align-items: center;">
 
                             <span id="card_title">
-                                {{ __('Titulares') }} <img src="{{ asset('https://static.vecteezy.com/system/resources/previews/010/154/511/non_2x/people-icon-sign-symbol-design-free-png.png') }}" width="40" height="30">
+                                <img src="{{ asset('https://static.vecteezy.com/system/resources/previews/010/154/511/non_2x/people-icon-sign-symbol-design-free-png.png') }}" width="40" height="30" style="margin-right: 6px">  {{ __('Titulares') }} 
                             </span>
 
                              <div class="float-right">

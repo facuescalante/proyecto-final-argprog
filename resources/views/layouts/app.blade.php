@@ -21,8 +21,8 @@
     <div id="app">
         <nav class="navbar navbar-expand-md navbar-light bg-white shadow-sm">
             <div class="container">
-                <a class="navbar-brand" href="{{ url('/') }}">
-                    {{ config('app.name', 'Registro') }}
+                <a class="navbar-brand" style="font-weight: bold" href="{{ url('/') }}">
+                    {{ config('', 'Inicio 🏠') }}
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="{{ __('Toggle navigation') }}">
                     <span class="navbar-toggler-icon"></span>
@@ -51,13 +51,13 @@
                             @endif
                         @else
                         <li class="nav-item">
-                            <a class="nav-link" href="{{ route('titulares.index') }}">Titulares</a>
+                            <a class="nav-link" style="font-weight: bold" href="{{ route('titulares.index') }}">Titulares</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="{{ route('automotores.index') }}">Automotores</a>
+                            <a class="nav-link" style="font-weight: bold" href="{{ route('automotores.index') }}">Automotores</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="{{ route('infracciones.index') }}">Infracciones</a>
+                            <a class="nav-link" style="font-weight: bold" href="{{ route('infracciones.index') }}">Infracciones</a>
                         </li>
 
                             <li class="nav-item dropdown">

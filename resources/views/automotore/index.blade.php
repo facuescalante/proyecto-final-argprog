@@ -10,10 +10,10 @@
             <div class="col-sm-12">
                 <div class="card">
                     <div class="card-header">
-                        <div style="display: flex; justify-content: space-between; align-items: center;">
+                        <div style="font-weight: bold; display: flex; justify-content: space-between; align-items: center;">
 
                             <span id="card_title">
-                                {{ __('Automotores') }} <img src="{{ asset('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1JzoBY3q0eaKCts4Q7Sv3yc6LFCVlwCXd4Q&usqp=CAU') }}" width="60" height="40">
+                                 <img src="{{ asset('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1JzoBY3q0eaKCts4Q7Sv3yc6LFCVlwCXd4Q&usqp=CAU') }}" width="60" height="40"> {{ __('Automotores') }}
                             </span>
 
                              <div class="float-right">
