@@ -1,4 +1,3 @@
-
 <?php
 
 use Illuminate\Contracts\Http\Kernel;
@@ -54,4 +53,3 @@ $response = $kernel->handle(
 )->send();
 
 $kernel->terminate($request, $response);
-

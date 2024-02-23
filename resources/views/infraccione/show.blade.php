@@ -29,10 +29,10 @@
                             {{ $infraccione->descripcion }}
                         </div>
                         <div class="form-group">
-                            <strong>Automotores Id:</strong>
+                            <strong>Titulares Id:</strong>
                             {{ $infraccione->automotores_id }}
                         </div>
-
+                        
                     </div>
                 </div>
             </div>
