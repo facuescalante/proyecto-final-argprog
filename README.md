@@ -66,6 +66,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ![Captura de pantalla (847)](https://github.com/facuescalante/proyecto-final-argprog/assets/152016798/74e31c7d-9cf1-4ea0-9abb-ae7279482711)
 ![Captura de pantalla (848)](https://github.com/facuescalante/proyecto-final-argprog/assets/152016798/bdc04f45-bb07-4de0-ab9a-11cf4fe671d2)
 ![Captura de pantalla (849)](https://github.com/facuescalante/proyecto-final-argprog/assets/152016798/3db4904c-9333-4cdb-90da-560c4623018b)
+![Captura de pantalla (933)](https://github.com/facuescalante/proyecto-final-argprog/assets/152016798/620e3700-ec6c-4a91-b4f0-38f97868f431)
 
 
 ## License
