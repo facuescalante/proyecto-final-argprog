@@ -61,6 +61,13 @@ In order to ensure that the Laravel community is welcoming to all, please review
 
 If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
 
+
+![Captura de pantalla (846)](https://github.com/facuescalante/proyecto-final-argprog/assets/152016798/ee55b31a-35dd-4980-b34f-866a7e87a7b0)
+![Captura de pantalla (847)](https://github.com/facuescalante/proyecto-final-argprog/assets/152016798/74e31c7d-9cf1-4ea0-9abb-ae7279482711)
+![Captura de pantalla (848)](https://github.com/facuescalante/proyecto-final-argprog/assets/152016798/bdc04f45-bb07-4de0-ab9a-11cf4fe671d2)
+![Captura de pantalla (849)](https://github.com/facuescalante/proyecto-final-argprog/assets/152016798/3db4904c-9333-4cdb-90da-560c4623018b)
+
+
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
